@@ -1,0 +1,72 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #031852;
+  display: flex;
+  justify-content: center
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #0b0746;
+}
+
+#Home {
+  border-radius: 4%;
+  font-size: small;
+  background: rgb(0, 2, 36);
+  background: linear-gradient(90deg, rgba(0, 2, 36, 1) 14%, rgba(9, 121, 13, 1) 54%, rgba(109, 0, 255, 1) 89%);
+  color: aliceblue;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  text-align: center;
+}
+
+#myimg {
+  width: 350px;
+  border-radius: 50%;
+}
+
+#Contact {
+  background: rgb(71, 94, 2);
+  background: linear-gradient(90deg, rgba(71, 94, 2, 1) 0%, rgba(113, 179, 19, 1) 8%, rgba(52, 116, 49, 1) 22%, rgba(9, 121, 90, 1) 35%, rgba(45, 177, 121, 1) 42%, rgba(37, 134, 68, 1) 54%, rgba(43, 116, 36, 1) 66%, rgba(57, 110, 28, 1) 75%, rgba(88, 154, 25, 1) 83%, rgba(159, 255, 0, 1) 100%);
+  text-align: center;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+#About {
+  background: rgb(71, 94, 2);
+  background: linear-gradient(90deg, rgba(71, 94, 2, 1) 0%, rgba(113, 179, 19, 1) 8%, rgba(52, 116, 49, 1) 22%, rgba(9, 121, 90, 1) 35%, rgba(45, 177, 121, 1) 42%, rgba(37, 134, 68, 1) 54%, rgba(43, 116, 36, 1) 66%, rgba(57, 110, 28, 1) 75%, rgba(88, 154, 25, 1) 83%, rgba(159, 255, 0, 1) 100%);
+  text-align: center;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+
+}
+#Work{
+  background: rgb(71, 94, 2);
+  background: linear-gradient(90deg, rgba(71, 94, 2, 1) 0%, rgba(113, 179, 19, 1) 8%, rgba(52, 116, 49, 1) 22%, rgba(9, 121, 90, 1) 35%, rgba(45, 177, 121, 1) 42%, rgba(37, 134, 68, 1) 54%, rgba(43, 116, 36, 1) 66%, rgba(57, 110, 28, 1) 75%, rgba(88, 154, 25, 1) 83%, rgba(159, 255, 0, 1) 100%);
+  text-align: center;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+#Resume{
+  background: rgb(71, 94, 2);
+  background: linear-gradient(90deg, rgba(71, 94, 2, 1) 0%, rgba(113, 179, 19, 1) 8%, rgba(52, 116, 49, 1) 22%, rgba(9, 121, 90, 1) 35%, rgba(45, 177, 121, 1) 42%, rgba(37, 134, 68, 1) 54%, rgba(43, 116, 36, 1) 66%, rgba(57, 110, 28, 1) 75%, rgba(88, 154, 25, 1) 83%, rgba(159, 255, 0, 1) 100%);
+  text-align: center;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: cornsilk;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
